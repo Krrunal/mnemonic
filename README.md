@@ -6,9 +6,13 @@
     ex: http://demo.com:8080 to http://example.com:8080
 
 4-  Open project folder via terminal and run below command
+    
     1-  /opt/cpanel/ea-nodejs10/bin/npm install
+    
     2-  export PS1='[\u@\h \W]\$ '
+    
     3-  cd mnemonic <folder path>
+    
     4-  /opt/cpanel/ea-nodejs10/bin/npx nodemon app.js
 
 Now your server is running on - http://demo.com:8080
